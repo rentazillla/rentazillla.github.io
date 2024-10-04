@@ -7,8 +7,8 @@ A jekyll-based markdown CV, adapted from [Ben L Moore](http://blm.io/cv/), see t
 To build, clone the repo and run jekyll:
 
 ```bash
-git clone git://github.com/blmoore/md-cv
-cd md-cv/
+git clone https://github.com/rentazillla/rentazillla.github.io.git
+cd rentazillla.github.io.git/
 jekyll serve
 ```
 (You may need to [install jekyll](https://jekyllrb.com/docs/installation/).)
