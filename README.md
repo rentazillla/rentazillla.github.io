@@ -8,7 +8,7 @@ To build, clone the repo and run jekyll:
 
 ```bash
 git clone https://github.com/rentazillla/rentazillla.github.io.git
-cd rentazillla.github.io.git/
+cd rentazillla.github.io/
 jekyll serve
 ```
 (You may need to [install jekyll](https://jekyllrb.com/docs/installation/).)
