@@ -1,74 +1,81 @@
 ---
 layout: cv
-title: David Bergkamp
+title: DBergkamp.cv.md
 ---
 # David Bergkamp
-PhD Pharmacology
+My interests are in biology, chemistry, and data science.
 
-* Personal email: [dbergkam@gmail.com](mailto:dbergkam@gmail.com)
+### Currently looking for a new position.
 
-* UW email: [db63@uw.edu](mailto:foo@xyz.com)
+## Research Skills
+### Behavioral neuroscience
+Study of behavioral signs of opioid withdrawal in mice following IP administration of various drugs of abuse across 5+ weeks.
 
-* Phone: [+1 503 490 4757](tel:+1-5034904757)
+Next generation sequencing
 
-* Resume [here](resume_GitHub.pdf)
+Isolation of tissue, preparation of cDNA libraries from RNA, and data analysis following third part sequencing using open-source tools.
 
-## About Me
+### Software for data analysis and visualization
+Python (biopython, numpy, SciKitLearn, pandas, seaborn, and others)
 
-I recently received my PhD in Pharmacology from the University of Washington. I am looking for a position as a research scientist, a bioinformatician, or a data scientist. My goal is to switch from academic research to a career in biotechnology, software, or the pharmaceutical industry in order to pursue a career in drug discovery or drug development.
+R (ggplot2, tidyverse, DESeq2, clusterProfiler, WGCNA, et cetera)
 
-## Employment
+Matlab for analyzing low and high dimensional data and preparing publication quality figures.
 
-`2019-2024`
-__University of Washington__ Research scientist (PhD awarded July 2024).
-> I studied the role of microglia in opioid withdrawal under the mentorship of [Dr. John Neumaier](https://depts.washington.edu/mnsl/). As part of this role I managed teams of research technicians and undergraduates to study mouse behavior, perform biochemistry and molecular biology assays, collect and analyze data from experiments, and write papers towards completion of my PhD in the department of Pharmacology.
+Familiar with Java and C++ for basic programming and image analysis.
 
-## Technical skills
+Comfortable with Unix and Windows based operating systems and command line programming for various projects requiring job scheduling.
 
-* Python
-* R
-* Java
-* 96-well drug-ligand binding assays
-* Molecular biology
-* Confocal microscopy (Leica SP8 and Nikon A1R)
-* Immunohistochemistry
-* Use of machine learning to analyze animal behavior
-* Unix and Windows based programming
+Experience with DOCK, AutoDockVina to model protein-protein interaction work.
 
-## Education
+### Biochemistry and molecular biology techniques
+Flow cytometry for isolation of cells based on engineered protein expression via mouse line crosses.
 
-`2018-2024`
-__University of Washington__ Pharmacology, PhD. _The Impact of Repeated Opioid Withdrawal on Mouse Behavior and Microglia_
+Immunohistochemistry for semi-quantitative measurements of protein expression and localization using confocal and widefield microscopy.
 
-`2010-2014`
-__University of Colorado Denver__ B.S. Chemistry (_Cum laude_), B.S. Philosophy
+Application of ELISAs for determination of various protein target concentrations.
 
-## Areas of expertise
+Plasmid design and editing using mammalian and bacterial cell culture methods
 
-* Behavioral Neuroscience
-* RNA sequencing
-* Proteomics
-* Machine learning
-* Data visualisation
+rAAV production and application to target transgene delivery (including CRISPR constructs) to mouse tissue.
+
+Application of RT-qPCR to verify experimental results from NGS data.
+
+Characterization of proteins using HPLC and NMR.
+
+### Writing and Communication
+Experience writing grants for federal (NIH, NSF) as well as US state level funding mechanisms.
+
+Excellent presentation and speaking skills focused on both academic and lay audiences.
 
 ## Publications
 
-`In`<br>`preparation`
-Bergkamp D et al. Multiple opioid withdrawal experiences compound symptoms in mice and induce microglial morphology and gene expression changes in the striatum.
+Bergkamp, DJ, Coffey, KR, Dawkins, AJ et al. Repeated fentanyl abstinence intensifies opioid withdrawal and induces a proinflammatory state in striatal microglia. Psychopharmacology (2026). https://doi.org/10.1007/s00213-026-07011-0
 
-`2024`
-__Bergkamp DJ__ and Neumaier JF. How omics is revealing new roles for glia in addiction. _Glia_, [DOI 10.1002/glia.24584](https://onlinelibrary.wiley.com/doi/10.1002/glia.24584)
+Bergkamp DJ and Neumaier JF, “How omics is revealing new roles for glia in addiction”. Glia (2024). https://doi.org/10.1002/glia.24584    
 
-`2022`
-Levinstein MR, __Bergkamp D__, Lewis Z, Tsobanoudis A, Hashikawa H, Stuber G, and Neumaier JF. PACAP-expressing neurons in the lateral habenula diminish negative emotional valence. _Genes, Brain, and Behavior_, [DOI: 10.1111/gbb.12801](https://doi.org/10.1111/gbb.12801)
+Bergkamp DJ, Stuber G, Neumaier JF (2022, November). “Multiple cycles of opioid withdrawal prime and activate murine microglia.” Society for Neuroscience annual meeting 2022, San Diego, CA.
 
-`2014`
-Allen RM, Mandt BH, Laggart J, Hackley A, Shickedanz A, and __Bergkamp D__. Continuous Exposure to Dizocilpine Facilitates the Acquisition and Escalation of Cocaine Consumption in Male Sprague-Dawley Rats. _Drug and Alcohol Dependence_, [DOI: 10.1016/j.drugalcdep.2014.11.027](https://doi.org/10.1016/j.drugalcdep.2014.11.027)
+Levinstein MR, Bergkamp DJ, Lewis Z, Tsobanoudis A, Hashikawa H, Stuber G, and Neumaier JF, “PACAP-expressing neurons in the lateral habenula diminish negative emotional valence”. Genes, Brain, and Behavior, Vol 21 (7), e12801 (2022). https://doi.org/10.1111/gbb.12801
 
-## References
+Allen RM, Mandt BH, Laggart J, Hackley A, Shickedanz A, and Bergkamp D, “Continuous exposure to dizocilpine facilitates the acquisition and escalation of cocaine consumption in male Sprague-Dawley rats”. Drug and Alcohol Dependence, Vol 147 (1), 137 – 143 (2014). 10.1016/j.drugalcdep.2014.11.027
 
-Professional and personal available on request.
+Mandt BH, Bergkamp D, Spahic I, Hackley A, Schickedanz A, Laggart J, and Allen RM (2013, August). "Dizocilpine-Induced Escalation of Cocaine Consumption is Independent of Altered Protein Expression." APA Annual Convention, Honolulu, HI.
+
+## Education
+
+`Aug 2010 - May 2014`
+__University of Colorado Denver, Denver CO__
+- BS, Chemistry
+- BS, Philosophy
+
+`Sept 2018 - Aug 2024`
+__University of Washington, Seattle WA__
+- PhD, Pharmacology
+
+
+
 
 <!-- ### Footer
 
-Last updated: October 2024 -->
+Last updated: April 2026 -->
